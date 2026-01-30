@@ -27,8 +27,7 @@ SECRET_KEY = "django-insecure-ub_!kf8m(vq)pbi85f3bz7gu=_-45y=j(nwc^sby8i=sj$*fss
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
-
-ALLOWED_HOSTS = ["www.Lyxnexus note-taker.com", "Lyxnexus note-taker.com", "localhost", "127.0.0.1"]
+ALLOWED_HOSTS = ["note-taker-7bx8.onrender.com"]
 
 
 # Application definition
